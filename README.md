@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Dhamo2112
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Dhamo2112/Dhamo2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+-Im interesting to python and django
+-I'm currently learning python and django
+-7339226521 is personal number to reach me
